@@ -1,6 +1,6 @@
 # 🧮 I&C SCI 46C — Data Structures & Algorithms in C++
 
-Lab assignments from Introduction to Data Structures (CS 46C) — implementing fundamental data structures and algorithms from scratch in C++, with Google Test unit test suites.
+Lab assignments from Introduction to Data Structures (I&C SCI 46C) — implementing fundamental data structures and algorithms from scratch in C++, with Google Test unit test suites.
 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-Build_System-064F8C?logo=cmake&logoColor=white)
